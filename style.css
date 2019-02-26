@@ -1085,38 +1085,38 @@ html[dir="rtl"] .section-header h3::before {
 	opacity: 1;
 }
 
-/* - Repair Costs */
-.repair-cost-section {
+/* - Frio Renzo Costs */
+.Frio Renzo-cost-section {
 	background-color: #fff;
 	border: 1px solid rgba(0,0,0,0.07);
 	margin-top: 50px;
 	padding-top: 30px;
 }
-.repair-cost-section .section-header {
+.Frio Renzo-cost-section .section-header {
 	text-align: center;
 	margin-bottom: 35px;
 }
-.repair-cost-section .section-header > h3 {
+.Frio Renzo-cost-section .section-header > h3 {
 	font-weight: 400;
 	font-size: 36px;
 }
-.repair-cost-section .section-header h3::before{
+.Frio Renzo-cost-section .section-header h3::before{
 	display: none;
 }
-.repair-cost-section .repair-cost-detail,
-.repair-cost-section .repair-cost-detail .cost-box {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail,
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box {
 	display: inline-block;
 	width: 100%;
 }
-.repair-cost-section .repair-cost-detail .cost-box {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box {
 	padding: 12px 15px;
 	text-align: center;
 	position: relative;
 	margin-top: -1px;
 	z-index: 1;
 }
-.repair-cost-section .repair-cost-detail .cost-box::before,
-.repair-cost-section .repair-cost-detail .cost-box::after {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box::before,
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box::after {
 	background-color: rgba(30,56,174,0.5);
 	content: "";
 	position: absolute;
@@ -1125,7 +1125,7 @@ html[dir="rtl"] .section-header h3::before {
 	width: 50.0015%;
 	z-index: -1;
 }
-.repair-cost-section .repair-cost-detail .cost-box::before {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box::before {
 	left: 0;
 	transform: skewY(-2deg);
 	-webkit-transform: skewY(-2deg);
@@ -1133,7 +1133,7 @@ html[dir="rtl"] .section-header h3::before {
 	-ms-transform: skewY(-2deg);
     transform-origin: 0;
 }
-.repair-cost-section .repair-cost-detail .cost-box::after {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box::after {
 	right: 0;
 	transform: skewY(2deg);
 	-webkit-transform: skewY(2deg);
@@ -1141,27 +1141,27 @@ html[dir="rtl"] .section-header h3::before {
 	-ms-transform: skewY(2deg);
     transform-origin: 100% 0 0;
 }
-.repair-cost-section .repair-cost-detail .cost-box.cost-1::before,
-.repair-cost-section .repair-cost-detail .cost-box.cost-1::after {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-1::before,
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-1::after {
 	background-color: rgba(30,56,174,0.05);
 }
-.repair-cost-section .repair-cost-detail .cost-box.cost-2::before,
-.repair-cost-section .repair-cost-detail .cost-box.cost-2::after {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-2::before,
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-2::after {
 	background-color: rgba(30,56,174,0.15);
 }
-.repair-cost-section .repair-cost-detail .cost-box.cost-3::before,
-.repair-cost-section .repair-cost-detail .cost-box.cost-3::after {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-3::before,
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-3::after {
 	background-color: rgba(30,56,174,0.25);
 }
-.repair-cost-section .repair-cost-detail .cost-box.cost-4::before,
-.repair-cost-section .repair-cost-detail .cost-box.cost-4::after {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-4::before,
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-4::after {
 	background-color: rgba(30,56,174,0.35);
 }
-.repair-cost-section .repair-cost-detail .cost-box.cost-5::before,
-.repair-cost-section .repair-cost-detail .cost-box.cost-5::after {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-5::before,
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-5::after {
 	background-color: rgba(30,56,174,0.45);
 }
-.repair-cost-section .repair-cost-detail .cost-box > h3 {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box > h3 {
 	color: #1e38ae;
 	font-size: 18px;
 	font-weight: 300;
@@ -1170,7 +1170,7 @@ html[dir="rtl"] .section-header h3::before {
 	position: relative;
 	z-index: 1;
 }
-.repair-cost-section .repair-cost-detail .cost-box span {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box span {
 	color: #1e38ae;
 	display: inline-block;
 	padding: 5px 32px;
@@ -1181,8 +1181,8 @@ html[dir="rtl"] .section-header h3::before {
 	position:relative;
 	z-index: 1;
 }
-.repair-cost-section .repair-cost-detail .cost-box span::before,
-.repair-cost-section .repair-cost-detail .cost-box span::after {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box span::before,
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box span::after {
 	border: 1px solid rgba(30,56,174,0.2);
 	content: "";
 	position: absolute;
@@ -1191,7 +1191,7 @@ html[dir="rtl"] .section-header h3::before {
 	width: 50%;
 	z-index: -1;
 }
-.repair-cost-section .repair-cost-detail .cost-box span::before {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box span::before {
 	border-right: none;
 	left: 0;
 	transform: skewY(-3deg);
@@ -1200,7 +1200,7 @@ html[dir="rtl"] .section-header h3::before {
 	-ms-transform: skewY(-3deg);
     transform-origin: 0;
 }
-.repair-cost-section .repair-cost-detail .cost-box span::after {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box span::after {
 	border-left: none;
 	right: 0;
 	transform: skewY(3deg);
@@ -1209,16 +1209,16 @@ html[dir="rtl"] .section-header h3::before {
 	-ms-transform: skewY(3deg);
     transform-origin: 100% 0 0;
 }
-.repair-cost-section .repair-cost-detail .cost-box.cost-default {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-default {
 	padding-bottom: 0;
 	padding-top: 21px;
 }
-.repair-cost-section .repair-cost-detail .cost-box.cost-default,
-.repair-cost-section .repair-cost-detail .cost-box.cost-default::before,
-.repair-cost-section .repair-cost-detail .cost-box.cost-default::after {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-default,
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-default::before,
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-default::after {
 	background-color: #1e38ae;
 }
-.repair-cost-section .repair-cost-detail .cost-box.cost-default > a {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-default > a {
 	display: inline-block;
 	border: 2px solid rgba(255,255,255,0.102);
 	border-radius: 15px 15px 0 0;
@@ -1235,7 +1235,7 @@ html[dir="rtl"] .section-header h3::before {
 	-o-transition: all 1s ease 0s;
 	transition: all 1s ease 0s;
 }
-.repair-cost-section .repair-cost-detail .cost-box.cost-default > a:hover {
+.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-default > a:hover {
 	background-color: #fff;
 	color: #1e38ae;
 }
@@ -2093,9 +2093,9 @@ html[dir="rtl"] .section-header h3::before {
 		margin-top: 30px;
 	}
 	
-	/* - Repair Costs */
-	.repair-cost-section .repair-cost-detail .cost-box::before,
-	.repair-cost-section .repair-cost-detail .cost-box::after {
+	/* - Frio Renzo Costs */
+	.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box::before,
+	.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box::after {
 		width: 50.01783%;
 	}
 	
@@ -2288,8 +2288,8 @@ html[dir="rtl"] .section-header h3::before {
 		margin-bottom: 30px;
 	}
 	
-	/* - Repair Costs */
-	.repair-cost-section .repair-cost-detail .cost-box {
+	/* - Frio Renzo Costs */
+	.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box {
 		padding-bottom: 10px;
 	}
 }
@@ -2322,8 +2322,8 @@ html[dir="rtl"] .section-header h3::before {
 		margin-top: 12px;
 	}
 	
-	/* - Repair Costs */
-	.repair-cost-section .repair-cost-detail .cost-box {
+	/* - Frio Renzo Costs */
+	.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box {
 		padding-bottom: 7px;
 	}
 	
@@ -2387,8 +2387,8 @@ html[dir="rtl"] .section-header h3::before {
 		margin-right: auto;
 	}
 	
-	/* - Repair Costs */
-	.repair-cost-section .repair-cost-detail .cost-box.cost-default > a {
+	/* - Frio Renzo Costs */
+	.Frio Renzo-cost-section .Frio Renzo-cost-detail .cost-box.cost-default > a {
 		padding-left: 35px;
 		padding-right: 35px;
 	}
